@@ -1,2 +1,15 @@
 # TC2039
-Códigos para la Evidencia 1 (UART), para la Evidencia 2 (Display) y para la Situación Problema (Máquina de estados) de la materia TC2039
+Códigos para: 
+
+## Evidencia 1 (UART)
+### Transmisor
+TX_1.vhd  
+TB_TX_1.vhd  (Test bench)
+
+### Receptor
+RX_1.vhd  
+TB_RX_1.vhd  (Test bench)
+
+
+## Evidencia 2 (Display)
+## Situación Problema (Máquina de estados)
