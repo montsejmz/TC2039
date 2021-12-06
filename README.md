@@ -14,3 +14,5 @@ TB_RX_1.vhd  (Test bench)
 
 ## Evidencia 2 (Display)
 ## Situación Problema (Máquina de estados)
+### ModelSim
+SP.vhd
