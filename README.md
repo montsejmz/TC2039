@@ -14,5 +14,6 @@ TB_RX_1.vhd  (Test bench)
 
 ## Evidencia 2 (Display)
 ## Situación Problema (Máquina de estados)
+[Documento](https://docs.google.com/document/d/1LpkeYXOEwu-cWDqjIRzKrp5zVy1uOK6nLWf9NY0bQoU/edit?usp=sharing)
 ### ModelSim
 SP.vhd
